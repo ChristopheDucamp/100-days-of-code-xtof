@@ -1,4 +1,5 @@
-Le journal de mes "100 Days Of Code" (pour le distinguer du [repo principal](https://github.com/ChristopheDucamp/100-days-of-code) et permettre aux personnes de forker une version propre)
+Le journal de mes "100 Days Of Code" 
+(pour le distinguer du [repo principal](https://github.com/ChristopheDucamp/100-days-of-code) et permettre aux personnes de forker une version propre)
 
 # #100DaysOfCode Log - Round 1 - [xtof](http://xtof.me)
 
@@ -66,19 +67,20 @@ Merci d'avoir lu et à demain.
 
 Embarquement pour la Bassse-Autriche. Pas d'accès au réseau. Essayé sans succès quelques exercices à du <https://www.freecodecamp.org/challenges/> sur un téléphone. 
 
-#### Production 0
+#### Production : néant
 
 
-### D4 : jeudi 27 juillet
-- refactorisé "r1-log" en français 
-[source](https://github.com/Kallaway/100-days-of-code/edit/master/r1-log.md)
+### D4 : jeudi 27 juillet (organisation des dossiers)
 
-#### Production envisagée pendant les vacances
+- Nettoyé le modèle "r1-log" en français 
+[source](https://github.com/Kallaway/100-days-of-code/edit/master/r1-log.md) pour le distinguer de mon journal personnel déposé sur un repo 100-days-of-code-xtof (contenu importé du "r1-log")
 
-- migrer le log sur un site minimaliste motorisé par GoHugo 
+#### Production en cours
+
+- migrer le log (journal) sur un site minimaliste motorisé par GoHugo. Thèmes envisagés.  
 	- theme https://themes.gohugo.io/hugo-journal/
 	- tutoriel minimal site hugo <http://arunrocks.com/minimal-hugo-site-tutorial/>
-	- remettre d'aplomb une "landing page personnelle de vacances" pour [POSSE](https://indiewebcamp.com/POSSE)r des photos de vacances.
+- remettre d'aplomb une "landing page personnelle de vacances" pour [POSSE](https://indiewebcamp.com/POSSE)r des photos de vacances.
 
 
 
