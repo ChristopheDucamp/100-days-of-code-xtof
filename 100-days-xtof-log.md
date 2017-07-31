@@ -108,5 +108,10 @@ devrait rendre aujourdhui
 
 - indiemark niveau 1 - réglages de [h-entry](http://100daysofcode.christopheducamp.com/2017/07/30/r1d7-indiemark-niveau-1-3---posts---layout-list.html/)
 
+### R1D8 : 31 juillet 
+
+- terminé le tutoriel bootstrap du freecodecamp
+- découverte du défi de construction d'une page d'hommage
+
 
 
