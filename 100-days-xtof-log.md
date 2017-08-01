@@ -113,5 +113,11 @@ devrait rendre aujourdhui
 - terminé le tutoriel bootstrap du freecodecamp
 - découverte du défi de construction d'une page d'hommage
 
+### R1D9 : révision HTML CSS
+- ajouté shortcode `codepen`
+- premiers pas sur la syntaxe emmet et raccourcis clavier webstorm
+- révision box model 
+	- étude layout (`box-sizing: border-box`)
+
 
 
