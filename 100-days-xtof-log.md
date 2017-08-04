@@ -131,3 +131,7 @@ devrait rendre aujourdhui
 	3. classe, attribut, pseudo-classe - 10
 	4. élément, pseudo-élément - 1
 - exploration [propriété-raccourcie `font](https://developer.mozilla.org/fr/docs/Web/CSS/font)
+
+### R1D12 : 
+- [Défi freecodecamp : Build a Tribute Page](https://www.freecodecamp.org/challenges/build-a-tribute-page) : une page hommage à "Ti-Jean"   
+<https://codepen.io/xtof-party/details/prNRra/> (bootstrap)
