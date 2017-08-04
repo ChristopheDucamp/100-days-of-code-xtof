@@ -132,6 +132,6 @@ devrait rendre aujourdhui
 	4. élément, pseudo-élément - 1
 - exploration [propriété-raccourcie `font](https://developer.mozilla.org/fr/docs/Web/CSS/font)
 
-### R1D12 : 
-- [Défi freecodecamp : Build a Tribute Page](https://www.freecodecamp.org/challenges/build-a-tribute-page) : une page hommage à "Ti-Jean"   
+### R1D12 : CSS
+- [Défi freecodecamp : Build a Tribute Page](https://www.freecodecamp.org/challenges/build-a-tribute-page). framework bootstrap. Code HTML et mini-bio à raffiner sur  
 <https://codepen.io/xtof-party/details/prNRra/> (bootstrap)
