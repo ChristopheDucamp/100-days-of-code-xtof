@@ -135,3 +135,7 @@ devrait rendre aujourdhui
 
 ### R1D12 : 4 août - HTML framework bootstrap
 - [Défi freecodecamp : Build a Tribute Page](https://www.freecodecamp.org/challenges/build-a-tribute-page). Dépôt HTML à raffiner sur <https://codepen.io/xtof-party/details/prNRra/> (bootstrap)
+
+### R1D13 5 août cours OpenClassroom bootstrap
+
+- Achevé la partie 1 [Premiers Pas](https://openclassrooms.com/courses/prenez-en-main-bootstrap)
