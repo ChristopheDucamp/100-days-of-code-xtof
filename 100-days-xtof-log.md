@@ -139,3 +139,7 @@ devrait rendre aujourdhui
 ### R1D13 5 août cours OpenClassroom bootstrap
 
 - Achevé la partie 1 [Premiers Pas](https://openclassrooms.com/courses/prenez-en-main-bootstrap)
+
+### R1D14 6 août cours Todd McLeod Flexbox 
+
+- lien de travail <https://github.com/GoesToEleven/html-css-bootcamp/tree/master/031_flexbox>
