@@ -143,3 +143,7 @@ devrait rendre aujourdhui
 ### R1D14 6 août cours Todd McLeod Flexbox 
 
 - lien de travail <https://github.com/GoesToEleven/html-css-bootcamp/tree/master/031_flexbox>
+
+### R1D15 - 7 août - Flexbox et MAJ Hugo
+- Fait [14 pages d'exercices par Todd McLeod](https://github.com/GoesToEleven/html-css-bootcamp/tree/master/031_flexbox/03_hands-on-exercises/01_challenges) et joué avec [Flexbox Froggy](http://flexboxfroggy.com/#fr).
+- Mise à jour motorisation  [Hugo 0.26.](https://gohugo.io/news/0.26-relnotes/). Modifié `config.toml` pour activer les "guillemets en français".
