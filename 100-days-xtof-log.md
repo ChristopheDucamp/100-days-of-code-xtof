@@ -148,6 +148,13 @@ devrait rendre aujourdhui
 - Fait [14 pages d'exercices par Todd McLeod](https://github.com/GoesToEleven/html-css-bootcamp/tree/master/031_flexbox/03_hands-on-exercises/01_challenges) et joué avec [Flexbox Froggy](http://flexboxfroggy.com/#fr).
 - Mise à jour motorisation  [Hugo 0.26.](https://gohugo.io/news/0.26-relnotes/). Modifié `config.toml` pour activer les "guillemets en français".
 
-### R1D16 - 8 août - étude design "flex" 
-- révision des "Media Queries"
+### R1D16 - 8 août - étude design "flexbox" 
+Pas de production.
+- Révision des "Media Queries"
 - Flexbox : exercices sur le [modèle de design flexbox proposé par Google](https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns)
+
+### R1D17 - 9 août
+
+- Révision layout CSS
+- Apprentissage JavaScript / [freecodecamp](https://www.freecodecamp.org/)
+- Achevé le cours [Git,Github sur Openclassrooms](https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github). 
