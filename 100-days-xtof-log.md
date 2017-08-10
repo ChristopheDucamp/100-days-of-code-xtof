@@ -158,3 +158,7 @@ Pas de production.
 - Révision layout CSS
 - Apprentissage JavaScript / [freecodecamp](https://www.freecodecamp.org/)
 - Achevé le cours [Git,Github sur Openclassrooms](https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github). 
+
+### R1D18 - 10 août 
+
+- ébauche layout "above-the-fold"
