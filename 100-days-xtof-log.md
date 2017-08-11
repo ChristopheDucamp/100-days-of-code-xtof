@@ -162,3 +162,7 @@ Pas de production.
 ### R1D18 - 10 août 
 
 - ébauche layout "above-the-fold"
+
+### R1D9 - 11 août 
+
+- travaux sur layout html/css background full page responsive
