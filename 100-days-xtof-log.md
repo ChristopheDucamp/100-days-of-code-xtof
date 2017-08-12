@@ -165,4 +165,10 @@ Pas de production.
 
 ### R1D9 - 11 août 
 
-- travaux sur layout html/css background full page responsive
+- layout html/css background full page responsive
+
+### R1D20 - 12 août 
+
+- étude viewport 
+- en-tête de layout pleine page responsive 
+	- essais icônes svg 
