@@ -170,5 +170,8 @@ Pas de production.
 ### R1D20 - 12 août 
 
 - étude viewport 
+- colors 
 - en-tête de layout pleine page responsive 
-	- essais icônes svg 
+
+### R1D21 - 13 août 
+- svg : utilisation des images vectorielles avec css. alléger icônes font-awesome. 
