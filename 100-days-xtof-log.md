@@ -174,4 +174,10 @@ Pas de production.
 - en-tête de layout pleine page responsive 
 
 ### R1D21 - 13 août 
-- svg : utilisation des images vectorielles avec css. alléger icônes font-awesome. 
+- svg : utilisation des images vectorielles avec css. icônes font-awesome. 
+
+### R1D22 - 14 août 
+- exercice "full-page-background" responsive
+	- conteneurs flexbox 
+	- header menu avec icônes svg
+	- design mobile first
