@@ -181,3 +181,6 @@ Pas de production.
 	- conteneurs flexbox 
 	- header menu avec icônes svg
 	- design mobile first
+
+### R1D23 - 15 août 
+- exercices  [flexbox-patterns](http://www.flexboxpatterns.com/site-header) et optimisation du code.
