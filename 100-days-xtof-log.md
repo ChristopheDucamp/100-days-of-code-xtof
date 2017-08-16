@@ -184,3 +184,6 @@ Pas de production.
 
 ### R1D23 - 15 août 
 - exercices  [flexbox-patterns](http://www.flexboxpatterns.com/site-header) et optimisation du code.
+
+### R1D24 - 16 août 
+- exercices <http://www.flexboxpatterns.com/>
