@@ -187,3 +187,14 @@ Pas de production.
 
 ### R1D24 - 16 août 
 - exercices <http://www.flexboxpatterns.com/>
+
+### R1D25 - 17 août 
+1. recherche couleurs et création de palette <http://colllor.com/ avec http://leaverou.github.io/contrast-ratio
+2. déploiement Google Cloud
+	- inscription pour essayer https://console.cloud.google.com (255 euros de crédit offerts pour un an)
+	- créé un projet de test "Jonathan le Goeland" (pleine page responsive avec image d'arrière plan) : `temp-177118`
+	- difficultés sur les paramétrages de déploiement  
+		- installé sdk appgengine pour Go
+		- python 2.7
+		- ? [perdu ici sur le réglage de librairies](https://cloud.google.com/appengine/docs/standard/python/getting-started/python-standard-env)... 
+		-> à poursuivre calmement avec révision des variables de PATH.
