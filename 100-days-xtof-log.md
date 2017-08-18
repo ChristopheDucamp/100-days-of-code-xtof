@@ -198,3 +198,11 @@ Pas de production.
 		- python 2.7
 		- ? [perdu ici sur le réglage de librairies](https://cloud.google.com/appengine/docs/standard/python/getting-started/python-standard-env)... 
 		-> à poursuivre calmement avec révision des variables de PATH.
+		
+### R1D26 - 18 août - travaux site personnel
+
+- ajout page `thanks.md` recensant les outils et services web utilisés 
+- bataille sur "l'indiewebification" du thème qui ne valide pas
+- travaux css sur les blocs de bas de page.
+
+		
