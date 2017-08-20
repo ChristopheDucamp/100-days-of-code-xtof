@@ -205,4 +205,6 @@ Pas de production.
 - bataille sur "l'indiewebification" du thème qui ne valide pas
 - travaux css sur les blocs de bas de page.
 
-		
+### R1D27 19 août 
+
+- performance web hugo : amorçage migration blog pour un thème plus minimaliste hugo-zen
