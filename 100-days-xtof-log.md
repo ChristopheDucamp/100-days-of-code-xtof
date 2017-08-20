@@ -207,4 +207,8 @@ Pas de production.
 
 ### R1D27 19 août 
 
-- performance web hugo : amorçage migration blog pour un thème plus minimaliste hugo-zen
+- performance web hugo : préparation migration blog pour un thème plus minimaliste hugo-zen.
+
+### R1D28 20 août 
+
+- migration site personnel jekyll vers hugo 
