@@ -212,3 +212,7 @@ Pas de production.
 ### R1D28 20 août 
 
 - migration site personnel jekyll vers hugo 
+
+### R1D28 21 août 
+
+- layout hugo-zen getskeleton.com
