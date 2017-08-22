@@ -213,6 +213,9 @@ Pas de production.
 
 - migration site personnel jekyll vers hugo 
 
-### R1D28 21 août 
-
+### R1D29 21 août 
 - layout hugo-zen getskeleton.com
+
+### R1D30 22 août 
+- site personnel : réglages header
+- bataille sur photoswipe pour install galerie photos
