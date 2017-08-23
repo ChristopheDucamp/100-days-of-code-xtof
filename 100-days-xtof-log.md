@@ -219,3 +219,7 @@ Pas de production.
 ### R1D30 22 août 
 - site personnel : réglages header
 - bataille sur photoswipe pour install galerie photos
+
+### R1D31 23 août 
+- étude boilerplates GoHugo (atlas et victor-hugo)
+- amorçage optimisation (CSS, JS compressés et placés dans le footer.)
