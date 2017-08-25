@@ -223,3 +223,8 @@ Pas de production.
 ### R1D31 23 août 
 - étude boilerplates GoHugo (atlas et victor-hugo)
 - amorçage optimisation (CSS, JS compressés et placés dans le footer.)
+
+### R1D32 24 août 
+- optimisation images 
+
+### R1D33 25 août 
