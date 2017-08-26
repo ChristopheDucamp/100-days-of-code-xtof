@@ -228,3 +228,8 @@ Pas de production.
 - optimisation images 
 
 ### R1D33 25 août 
+- image-magick
+
+### R1D33 26 août 
+- optimisation minification
+- sitemap
