@@ -233,3 +233,6 @@ Pas de production.
 ### R1D33 26 août 
 - optimisation minification
 - sitemap
+
+### R1D34 27 août
+- GoHugo : bataillé dans les dépendances des boilerplates
