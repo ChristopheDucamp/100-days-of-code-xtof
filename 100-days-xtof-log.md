@@ -228,7 +228,7 @@ Pas de production.
 - optimisation images 
 
 ### R1D33 25 août 
-- image-magick
+- essai d'image-magick
 
 ### R1D33 26 août 
 - optimisation minification
@@ -236,3 +236,8 @@ Pas de production.
 
 ### R1D34 27 août
 - GoHugo : bataillé dans les dépendances des boilerplates
+
+### R1D35 28 août 
+- GoHugo : personnalisation du thème Ananke 
+	- essai librairie css <http://tachyons.io/>
+
