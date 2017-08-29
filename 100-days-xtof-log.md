@@ -39,6 +39,7 @@ variables d'environnement GOPATH et autres paramétrées dans mon profil bash. P
 #### Production du jour
 
 - GoHugo : [première ébauche de traduction du tutoriel Quick-Start GoHugo](https://github.com/ChristopheDucamp/hugoDocs-fr/blob/master/content/demarrage/quickstart.md). Il est testé et fonctionnel. À relire par les amis. Un output est à construire.
+- 
 ### R1D2 : mardi 25 juillet
 
 Départ demain pour une semaine en Basse-Autriche. Prévoyant de travailler sans accès au réseau, j'ai repris les fondamentaux de Git pour prévoir de travailler "hors ligne".
@@ -241,3 +242,6 @@ Pas de production.
 - GoHugo : personnalisation du thème Ananke 
 	- essai librairie css <http://tachyons.io/>
 
+### R1D36 29 août 
+
+- étude de thèmes GoHugo. Post sur   [tachyons-css](https://www.christopheducamp.com/2017/08/29/tachyons-css/)
