@@ -231,17 +231,19 @@ Pas de production.
 ### R1D33 25 août 
 - essai d'image-magick
 
-### R1D33 26 août 
+### R1D34 26 août 
 - optimisation minification
 - sitemap
 
-### R1D34 27 août
+### R1D35 27 août
 - GoHugo : bataillé dans les dépendances des boilerplates
 
-### R1D35 28 août 
+### R1D36 28 août 
 - GoHugo : personnalisation du thème Ananke 
 	- essai librairie css <http://tachyons.io/>
 
-### R1D36 29 août 
-
+### R1D37 29 août 
 - étude de thèmes GoHugo. Post sur   [tachyons-css](https://www.christopheducamp.com/2017/08/29/tachyons-css/)
+
+### R1D38 mercredi 30 août 
+- migration jekyll hugo christophe.ducamp.me et déploiement sur Netlify
