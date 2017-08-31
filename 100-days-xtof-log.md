@@ -247,3 +247,10 @@ Pas de production.
 
 ### R1D38 mercredi 30 août 
 - migration jekyll hugo christophe.ducamp.me et déploiement sur Netlify
+
+### R1d39 jeudi 31 août 
+Recherche photoflow
+- optimisation : compression des images
+	- imagemagick et shortcode `figure` intégré dans le thème afterdark
+	- nettoyage dossier img avec sous-dossiers
+- git et les sous-modules : réinitialisé 2 thèmes gohugo placés en sous-modules et qualifiés de "dirty". 
