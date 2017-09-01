@@ -243,7 +243,7 @@ Pas de production.
 	- essai librairie css <http://tachyons.io/>
 
 ### R1D37 29 août 
-- étude de thèmes GoHugo. Post sur   [tachyons-css](https://www.christopheducamp.com/2017/08/29/tachyons-css/)
+- étude de thèmes GoHugo. Post sur [tachyons-css](https://www.christopheducamp.com/2017/08/29/tachyons-css/)
 
 ### R1D38 mercredi 30 août 
 - migration jekyll hugo christophe.ducamp.me et déploiement sur Netlify
@@ -254,3 +254,6 @@ Recherche photoflow
 	- imagemagick et shortcode `figure` intégré dans le thème afterdark
 	- nettoyage dossier img avec sous-dossiers
 - git et les sous-modules : réinitialisé 2 thèmes gohugo placés en sous-modules et qualifiés de "dirty". 
+
+### R1d40 vendredi 1er septembre
+paramétrage et personnalisation thème go-hugo after-dark
