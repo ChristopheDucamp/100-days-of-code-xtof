@@ -257,3 +257,6 @@ Recherche photoflow
 
 ### R1d40 vendredi 1er septembre
 paramétrage et personnalisation thème go-hugo after-dark
+
+### r1d41 samedi 2 septembre
+ménage images et optimisation - revue d'apps de terminal. essai de snippetsLab
