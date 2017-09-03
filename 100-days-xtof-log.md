@@ -260,3 +260,7 @@ paramétrage et personnalisation thème go-hugo after-dark
 
 ### r1d41 samedi 2 septembre
 ménage images et optimisation - revue d'apps de terminal. essai de snippetsLab
+
+### r1d42 dimanche 3 septembre 
+amorçage snippetsLab - 
+& construction d'une première app gallery react 
