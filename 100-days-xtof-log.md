@@ -264,3 +264,5 @@ ménage images et optimisation - revue d'apps de terminal. essai de snippetsLab
 ### r1d42 dimanche 3 septembre 
 amorçage snippetsLab - 
 & construction d'une première app gallery react 
+### r1d43 lundi 4 septembre 
+premier cours en ligne sur fondamentaux JavaScript. Vidéo + http://eloquentjavascript.net/00_intro.html  
