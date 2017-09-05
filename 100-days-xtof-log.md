@@ -266,3 +266,5 @@ amorçage snippetsLab -
 & construction d'une première app gallery react 
 ### r1d43 lundi 4 septembre 
 premier cours en ligne sur fondamentaux JavaScript. Vidéo + http://eloquentjavascript.net/00_intro.html  
+### r1d44 mardi 5 septembre
+Javascript essentials 
