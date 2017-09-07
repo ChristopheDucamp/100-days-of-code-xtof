@@ -215,3 +215,5 @@ premier cours en ligne sur fondamentaux JavaScript. Vidéo + http://eloquentjava
 Javascript essentials 
 ### r1d45 mercredi 6 septembre
 JavaScript essentials
+### r1d46 jeudi 7 septembre 
+JavaScript essentials 
