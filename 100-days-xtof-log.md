@@ -217,3 +217,5 @@ Javascript essentials
 JavaScript essentials
 ### r1d46 jeudi 7 septembre 
 JavaScript essentials 
+### r1d47 vendredi 8 septembre 
+JavaScript essentials 
