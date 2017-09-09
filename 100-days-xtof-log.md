@@ -219,3 +219,5 @@ JavaScript essentials
 JavaScript essentials 
 ### r1d47 vendredi 8 septembre 
 JavaScript essentials 
+### r1d48 samedi 9 septembre 
+JavaScript essentials w/web developer bootcamp.
