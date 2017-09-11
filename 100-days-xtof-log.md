@@ -223,3 +223,6 @@ JavaScript essentials
 JavaScript essentials w/web developer bootcamp.
 ### r1d49 dimanche 10 septembre 
 web dev bootcamp - étude formulaires. landing page pour une app de famille.
+### r1d50 lundi 11 septembre 
+- Premier pas sur Grid CSS.
+- Intro Javascript Scope.
