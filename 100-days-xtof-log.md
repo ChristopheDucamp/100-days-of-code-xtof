@@ -226,3 +226,6 @@ web dev bootcamp - étude formulaires. landing page pour une app de famille.
 ### r1d50 lundi 11 septembre 
 - Premier pas sur Grid CSS.
 - Intro Javascript Scope.
+### r1d51 mardi 12 septembre 
+- Galerie d'images
+- Fondamentaux Javascript 
