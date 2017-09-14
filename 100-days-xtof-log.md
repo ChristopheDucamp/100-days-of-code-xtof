@@ -231,3 +231,6 @@ web dev bootcamp - étude formulaires. landing page pour une app de famille.
 - Fondamentaux Javascript 
 ### r1d52 mercredi 13 septembre 
 - Javascript basics (forEach)
+### r1d53 jeudi 14 septembre
+- Javascript basics
+
