@@ -233,4 +233,9 @@ web dev bootcamp - étude formulaires. landing page pour une app de famille.
 - Javascript basics (forEach)
 ### r1d53 jeudi 14 septembre
 - Javascript basics
+### r1d54 vendredi 15 septembre
+- Javascript Contexte d'Exécution et Hissage
+- Manipulation DOM ("Pig Game")
+
+
 
