@@ -236,6 +236,6 @@ web dev bootcamp - étude formulaires. landing page pour une app de famille.
 ### r1d54 vendredi 15 septembre
 - Javascript Contexte d'Exécution et Hissage
 - Manipulation DOM ("Pig Game")
-
-
+### r1d55 samedi 16 septembre
+- JavaScript manip DOM
 
