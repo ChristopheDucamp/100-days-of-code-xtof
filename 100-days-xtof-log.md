@@ -238,4 +238,9 @@ web dev bootcamp - étude formulaires. landing page pour une app de famille.
 - Manipulation DOM ("Pig Game")
 ### r1d55 samedi 16 septembre
 - JavaScript manip DOM
+### r1d56 dimanche 17 septembre
+- Exploration de thèmes GoHugo pour documentation 
+	- [hugo-theme-learn](https://themes.gohugo.io/hugo-theme-learn/)
+	- [kube](https://github.com/jeblister/kube)
+- JavaScript DOM Manip
 
