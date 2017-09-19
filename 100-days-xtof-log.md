@@ -245,3 +245,10 @@ web dev bootcamp - étude formulaires. landing page pour une app de famille.
 - JavaScript DOM Manip
 ### r1d57 lundi 18 septembre
 - JavaScript DOM events : app de tenue de scores.
+### r1d58 mardi 19 septembre
+- JavaScript
+	- construction de fonctions basiques
+		- remplacer une chaîne de caractères (copié une regex)
+	- construit todo-liste
+	- compté 441 événements web sur MDN
+	- freecodecamp training
