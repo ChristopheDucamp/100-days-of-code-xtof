@@ -81,7 +81,6 @@ Posté le <time class="post-date dt-published" datetime="{{ .Date.Format "2006-0
 
 devrait rendre aujourdhui
 
-
     Posté le 28 juillet 2017
 -->
 - certificat https
@@ -252,3 +251,5 @@ web dev bootcamp - étude formulaires. landing page pour une app de famille.
 	- construit todo-liste
 	- compté 441 événements web sur MDN
 	- freecodecamp training
+### r1d59 mercredi 20 septembre
+JavaScript/CSS - construction color-game rgb
