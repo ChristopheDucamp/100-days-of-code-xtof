@@ -5,7 +5,7 @@ Le journal de mon défi #100DaysOfCode. Démarré le lundi 24 juillet 2017.
 ![GitHub-ChristopheDucamp](https://monosnap.com/file/A4sm9cDzuIVjfbFM0n1rb4QearZfx6.png "<[Source github](https://github.com/ChristopheDucamp)>")
 ### R1D1 : lundi 24 juillet
 #### Comment j'ai Connu le Mouvement #100DaysOfCode
-Tout simplement via une requête twitter "[#GoHugo](https://twitter.com/search?q=%23gohugo&src=typd)". Parachutage sur un post d'[Ivy DeWitt](https://twitter.com/zentechnista/status/889271653821296640) ("Pythonista" enthousiaste, newbie avancée en programmation et enthousiaste sur le défi) m'ayant conduit à lire attentivement son excellent article "[Lessons in Programming: Learning To Get Uncomfortable](https://zentechnista.github.io/2017/07/lessons-in-programming-learning-to-get-uncomfortable/)". Le reste n'est que promenade dans les hyperliens et tutoriel du freecodecamp.
+Tout simplement via une requête twitter "[GoHugo](https://twitter.com/search?q=%23gohugo&src=typd)". Parachutage sur un post d'[Ivy DeWitt](https://twitter.com/zentechnista/status/889271653821296640) ("Pythonista" enthousiaste, newbie avancée en programmation et enthousiaste sur le défi) m'ayant conduit à lire attentivement son excellent article "[Lessons in Programming: Learning To Get Uncomfortable](https://zentechnista.github.io/2017/07/lessons-in-programming-learning-to-get-uncomfortable/)". Le reste n'est que promenade dans les hyperliens et tutoriel du freecodecamp.
 
 #### Pourquoi je signe
 
@@ -253,3 +253,7 @@ web dev bootcamp - étude formulaires. landing page pour une app de famille.
 	- freecodecamp training
 ### r1d59 mercredi 20 septembre
 JavaScript/CSS - construction color-game rgb
+### r1d60 jeudi 21 septembre
+FreeCodeCamp : Basic Algorithm JavaScripting
+Intro jQuery
+IDE : setting up Atom
