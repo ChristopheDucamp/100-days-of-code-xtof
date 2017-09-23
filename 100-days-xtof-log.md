@@ -260,3 +260,6 @@ IDE : setting up Atom
 ### r1d61 vendredi 22 septembre
 jQuery exercices
 Travaux sur en-têtes HTTP de sécurité (CSP à revoir)
+### r1d62 samedi 23 septembre
+- JavaScript pig game app
+- jQuery - app ToDo 
