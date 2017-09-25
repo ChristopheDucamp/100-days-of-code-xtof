@@ -263,3 +263,8 @@ Travaux sur en-têtes HTTP de sécurité (CSP à revoir)
 ### r1d62 samedi 23 septembre
 - JavaScript pig game app
 - jQuery - app ToDo 
+### r1d63 dimanche 24 septembre
+- JavaScript exercice codewars
+### r1d64 lundi 25 septembre 
+découverte paper.js
+travaux sur clone patatap.com 
