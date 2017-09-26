@@ -268,3 +268,10 @@ Travaux sur en-têtes HTTP de sécurité (CSP à revoir)
 ### r1d64 lundi 25 septembre 
 découverte paper.js
 travaux sur clone patatap.com 
+### r1d65 mardi 26 septembre
+webdev bootcamp 
+- clone de patatap.com w/howler.js et paper.js
+- installation c9.io 
+- intro node.js
+
+
