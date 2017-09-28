@@ -273,7 +273,10 @@ webdev bootcamp
 - clone de patatap.com w/howler.js et paper.js
 - installation c9.io 
 - intro node.js
-### r1d65 mercredi 27 septembre
+### r1d66 mercredi 27 septembre
 webdev bootcamp Intro Node.js - npm express
+### r1d67 jeudi 28 septembre
+webdev bootcamp node.js - Express 
+
 
 
