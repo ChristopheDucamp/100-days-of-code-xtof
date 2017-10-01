@@ -281,6 +281,8 @@ webdev bootcamp node.js - Express
 Express - Post Requests
 ### r1d69 samedi 30 septembre 
 CSS Grid - essentials
+### r1d70 dimanche 1er octobre
+JavaScript : exercices 
 
 
 
