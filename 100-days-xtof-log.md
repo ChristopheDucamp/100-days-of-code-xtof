@@ -283,6 +283,11 @@ Express - Post Requests
 CSS Grid - essentials
 ### r1d70 dimanche 1er octobre
 JavaScript : exercices 
+### r1d71 lundi 2 octobre 
+- Couleurs : flatuicolors - 0to255 - Paletton
+- Grid layout
+### r1d72 mardi 3 octobre 
+- HTML/CSS design - typographie, couleurs 
 
 
 
