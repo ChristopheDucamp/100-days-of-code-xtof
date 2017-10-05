@@ -288,9 +288,5 @@ JavaScript : exercices
 - Grid layout
 ### r1d72 mardi 3 octobre 
 - HTML/CSS design - typographie, couleurs 
-
-
-
-
-
-
+### r1d73 mercredi 4 octobre 
+HTML/CSS design site Omnifood 
