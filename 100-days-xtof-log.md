@@ -290,3 +290,6 @@ JavaScript : exercices
 - HTML/CSS design - typographie, couleurs 
 ### r1d73 mercredi 4 octobre 
 HTML/CSS design site Omnifood 
+### r1d74 jeudi 4 octobre 
+HTML/CSS design site Omnifood 
+
