@@ -292,4 +292,6 @@ JavaScript : exercices
 HTML/CSS design site Omnifood 
 ### r1d74 jeudi 4 octobre 
 HTML/CSS design site Omnifood 
+### r1d75 vendredi 5 octobre 
+HTML/CSS design site Omnifood - formulaires
 
