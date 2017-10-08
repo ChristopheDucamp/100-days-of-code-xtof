@@ -296,4 +296,6 @@ HTML/CSS design site Omnifood
 HTML/CSS design site Omnifood - formulaires
 ### r1d76 samedi 6 octobre 
 HTML/CSS design site Omnifood - Responsive design
+### r1d77 dimanche 7 octobre 
+HTML/CSS design site Omnifood. Fin. 
 
