@@ -290,14 +290,19 @@ JavaScript : exercices
 - HTML/CSS design - typographie, couleurs 
 ### r1d73 mercredi 4 octobre 
 HTML/CSS design site Omnifood 
-### r1d74 jeudi 4 octobre 
+### r1d74 jeudi 5 octobre 
 HTML/CSS design site Omnifood 
-### r1d75 vendredi 5 octobre 
+### r1d75 vendredi 6 octobre 
 HTML/CSS design site Omnifood - formulaires
-### r1d76 samedi 6 octobre 
+### r1d76 samedi 7 octobre 
 HTML/CSS design site Omnifood - Responsive design
-### r1d77 dimanche 7 octobre 
+### r1d77 dimanche 8 octobre 
 HTML/CSS design site Omnifood. Fin. 
-### r1d79 lundi 8 octobre 
+### r1d78 lundi 9 octobre 
 Building HTML/CSS 
+### r1d79 mardi 10 octobre 
+Building HTML/CSS 
+### r1d80 mercredi 11 octobre 
+web dev bootcamp : APIs 
+
 
