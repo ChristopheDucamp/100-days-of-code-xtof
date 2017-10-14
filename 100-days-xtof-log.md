@@ -304,5 +304,9 @@ Building HTML/CSS
 Building HTML/CSS 
 ### r1d80 mercredi 11 octobre 
 web dev bootcamp : APIs 
-
-
+### r1d81 jeudi 12 octobre 
+Visite SNIPS : assistant vocal motorisé par AI. Privacy by design. 
+### r1d82 vendredi 13 octobre 
+HTML CSS design exercices pratiques w/ Todd Mc Leod
+### r1d83 samedi 14 octobre 
+Javascript Essentials (revision)
